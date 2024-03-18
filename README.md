@@ -1,4 +1,4 @@
-# Eniac-s_Discounts_Analysis
+# ENIACs_Discounts_Analysis
 
 The company is at a crossroads in deciding on discount implementation. The Marketing Team Lead supports discounts, highlighting their potential to attract and satisfy customers, while the main investors worry about the negative effects of aggressive discounts on revenue and market position. Our objective is to use data analysis to shed light on these concerns.
 
